@@ -82,7 +82,12 @@ h5 span{
 
 }
 
-
-
-
 /* SELECTOR DE ID*/
+
+#barralateral{
+    background: #1ee24b;
+    color:darkkhaki;
+    float: left;
+    width: 120px;
+
+}
