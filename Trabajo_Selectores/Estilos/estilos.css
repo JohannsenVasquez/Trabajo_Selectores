@@ -95,7 +95,7 @@ h5 span{
 
 /* SELECTOR DESCENDENTE COMBINADO*/
 
-{
+/*{
     background-color: cornsilk;
 
 }
@@ -111,5 +111,9 @@ h2{
 .Primero div #dos span{
     color:#cb8311;
 
-}
+}*/
+
+/* SELECTOR DE HIJOS(>)*/
+
+
 
