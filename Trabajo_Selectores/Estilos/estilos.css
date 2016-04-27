@@ -20,7 +20,7 @@ p{
 
 
 
-h1{
+/*h1{
     color:#92dd1a;
     text-align: justify;
     margin: 20px;
@@ -43,4 +43,19 @@ a{
 }
 a:hover{
     background: yellow;
+}*/
+
+
+/* SELECTOR DESCENDIENTE*/
+p span{
+    color: chartreuse;
 }
+
+
+/* SELECTOR DE CLASE*/
+
+
+
+
+
+/* SELECTOR DE ID*/
