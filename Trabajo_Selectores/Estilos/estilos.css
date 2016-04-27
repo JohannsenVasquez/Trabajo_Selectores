@@ -47,8 +47,26 @@ a:hover{
 
 
 /* SELECTOR DESCENDIENTE*/
-p span{
-    color: chartreuse;
+h1{
+
+    text-align: center;
+    color: forestgreen;
+}
+h3{
+    color: darkgoldenrod;
+    text-align: justify;
+
+}
+h3 span {
+    color: red;
+    text-align: center;
+}
+
+h5 span{
+
+    color: darkturquoise;
+    text-align: justify;
+
 }
 
 
