@@ -47,7 +47,7 @@ a:hover{
 
 
 /* SELECTOR DESCENDIENTE*/
-h1{
+/*h1{
 
     text-align: center;
     color: forestgreen;
@@ -67,11 +67,11 @@ h5 span{
     color: darkturquoise;
     text-align: justify;
 
-}
+}*/
 
 
 /* SELECTOR DE CLASE*/
-.cabeceraweb{
+/*.cabeceraweb{
     background-color: #c49411;
     color: #F3F3F3;
     height: 60px;
@@ -80,14 +80,36 @@ h5 span{
     font-weight: bold;
     font-size: 30px;
 
-}
+}*/
 
 /* SELECTOR DE ID*/
 
-#barralateral{
+/*#barralateral{
     background: #1ee24b;
     color:darkkhaki;
     float: left;
     width: 120px;
 
+}*/
+
+
+/* SELECTOR DESCENDENTE COMBINADO*/
+
+{
+    background-color: cornsilk;
+
 }
+h1{
+    background: green;
+    text-align: center;
+    color: darkblue;
+}
+h2{
+    background: yellow;
+    text-align: left;
+}
+.Primero div #dos span{
+    color:#cb8311;
+
+}
+
