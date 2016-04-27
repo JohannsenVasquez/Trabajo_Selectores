@@ -71,7 +71,16 @@ h5 span{
 
 
 /* SELECTOR DE CLASE*/
+.cabeceraweb{
+    background-color: #c49411;
+    color: #F3F3F3;
+    height: 60px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 30px;
 
+}
 
 
 
