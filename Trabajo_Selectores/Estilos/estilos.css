@@ -1,4 +1,4 @@
-*{
+*/*{
     background-color: coral;
 }
 
@@ -9,5 +9,38 @@ h2{
 
 p{
     text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin: 30px 4px;
+    font-size: 20px;
+}*/
 
+
+/*Selector de etiqueta*/
+
+
+
+h1{
+    color:#92dd1a;
+    text-align: justify;
+    margin: 20px;
+
+}
+h2{
+    text-align: center;
+    color: red;
+
+}
+p{
+    background: #F7C759;
+    color: #1911ed;
+    text-align: justify;
+}
+a{
+    background: #29e621;
+    color:darkred;
+    text-align-last: justify;
+}
+a:hover{
+    background: yellow;
 }
