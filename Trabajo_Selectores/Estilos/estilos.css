@@ -115,8 +115,13 @@ h2{
 
 /* SELECTOR DE HIJOS(>)*/
 
-{background-color: #1d6d5b;}
+/*{background-color: #1d6d5b;}
 
 h1{background: #714;text-align: center;color: darkviolet;}
 h2{background: #bdd315;text-align: justify;}
-p >span{background: #4ead85;border-color: darkgoldenrod;color:crimson}
+p >span{background: #4ead85;border-color: darkgoldenrod;color:crimson}*/
+
+
+/* SELECTOR HERMANO ADYACENTE*/
+
+
