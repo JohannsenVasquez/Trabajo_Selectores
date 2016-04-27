@@ -118,4 +118,5 @@ h2{
 {background-color: #1d6d5b;}
 
 h1{background: #714;text-align: center;color: darkviolet;}
-
+h2{background: #bdd315;text-align: justify;}
+p >span{background: #4ead85;border-color: darkgoldenrod;color:crimson}
