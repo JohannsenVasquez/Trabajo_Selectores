@@ -149,4 +149,13 @@ h3[href]{
 
 /* SELECTOR DE ATRIBUTO CON VALOR EXACTO*/
 
-
+{background:#cfdef0 }
+h1{background: #e5e6ba;text-align: center;color: red;} h2{color:darkorange}
+span[rel="span"]{
+    color: #10c12b; text-align: center;background: #486;}
+h6[rel="creacion"]{
+    color: brown; text-align: center;}
+h5[rel="termino"]{
+    background-color: darkgoldenrod;
+    border-color: deeppink;
+}
