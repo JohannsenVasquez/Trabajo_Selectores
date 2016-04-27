@@ -136,7 +136,7 @@ p~a{ background: #6292d1;text-align: center;}
 h2~h3{background: #715881;text-align: center;}*/
 
 /* Selector de Atributo Basico*/
-{background:#cfdef0 }
+/*{background:#cfdef0 }
 h1{background: #e5e6ba;text-align: center;color: darkviolet;}
 a[href]{
   color: red;
@@ -145,5 +145,8 @@ text-decoration: none;
 h3[href]{
     color: darkmagenta;
     text-align: center;
-}
+}*/
+
+/* SELECTOR DE ATRIBUTO CON VALOR EXACTO*/
+
 
