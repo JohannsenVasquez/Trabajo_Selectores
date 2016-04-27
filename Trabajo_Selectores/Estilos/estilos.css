@@ -124,8 +124,14 @@ p >span{background: #4ead85;border-color: darkgoldenrod;color:crimson}*/
 
 /* SELECTOR HERMANO ADYACENTE*/
 
-h1{background: #714;text-align: center;color: darkviolet;}
+/*h1{background: #714;text-align: center;color: darkviolet;}
 p+a{background:#1a0d79;color: chocolate;}
-h2+h3{background:#855; color: darkgoldenrod;text-align: center}
+h2+h3{background:#855; color: darkgoldenrod;text-align: center}*/
 
+/* SELECTOR HERMANO GENERAL*/
+
+{background:#c3a88d }
+h1{background: #60a258;text-align: center;color: darkviolet;}
+p~a{ background: #6292d1;text-align: center;}
+h2~h3{background: #715881;text-align: center;
 
