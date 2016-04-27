@@ -130,11 +130,11 @@ h2+h3{background:#855; color: darkgoldenrod;text-align: center}*/
 
 /* SELECTOR HERMANO GENERAL*/
 
-/*{background:#c3a88d }
+{background:#c3a88d }
 h1{background: #60a258;text-align: center;color: darkviolet;}
 p~a{ background: #6292d1;text-align: center;}
-h2~h3{background: #715881;text-align: center;*/
-
-/* SELECTOR ATRIBUTO BASICO*/
+h2~h3{background: #715881;text-align: center;
 
 
+
+}
