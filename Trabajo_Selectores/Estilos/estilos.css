@@ -149,7 +149,7 @@ h3[href]{
 
 /* SELECTOR DE ATRIBUTO CON VALOR EXACTO*/
 
-{background:#cfdef0 }
+/*{background:#cfdef0 }
 h1{background: #e5e6ba;text-align: center;color: red;} h2{color:darkorange}
 span[rel="span"]{
     color: #10c12b; text-align: center;background: #486;}
@@ -158,4 +158,27 @@ h6[rel="creacion"]{
 h5[rel="termino"]{
     background-color: darkgoldenrod;
     border-color: deeppink;
+}*/
+
+/*Selector de Atributo de una lista de valores separados por espacio*/
+
+*{background:#cfdef0 }
+h1[class~=dia]{
+    text-align: center;
+    background-color: chocolate
+}
+span[class~=span]{
+    text-align: justify;
+    background-color:darkgreen;
+    color: darkorange
+}
+h1[class~=final]{
+    text-align: center;
+    background-color: red;}
+p[class~=Diario]{
+    text-align: center;
+    text-decoration-style: double;
+    margin: 20px;
+    color: #eb441d;
+
 }
