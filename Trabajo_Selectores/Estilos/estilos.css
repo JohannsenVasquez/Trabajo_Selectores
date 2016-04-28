@@ -184,7 +184,7 @@ p[class~=Diario]{
 
 /* Selector de atributos de una lista de valores separados por un guion*/
 
-h1[class |=dia]{
+/* h1[class |=dia]{
     text-align: center;
     background-color: chocolate;
 }
@@ -202,6 +202,17 @@ h2[class|=diario]{
     text-decoration-style: double;
     margin: 20px;
     color:darkblue;
-    }
+    }*/
 
+/* Selector de atributo “Comienza con” –propio de*/
 
+{background: #91ce98}
+h1{
+    background-color: brown;text-align: center;
+}
+h2{background-color: darkgoldenrod}
+
+a[hreft^="http://"]{
+    text-align: center;
+    background-color: yellow;
+}
