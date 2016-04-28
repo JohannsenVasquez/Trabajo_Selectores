@@ -162,7 +162,7 @@ h5[rel="termino"]{
 
 /*Selector de Atributo de una lista de valores separados por espacio*/
 
-*{background:#cfdef0 }
+/*{background:#cfdef0 }
 h1[class~=dia]{
     text-align: center;
     background-color: chocolate
@@ -180,5 +180,28 @@ p[class~=Diario]{
     text-decoration-style: double;
     margin: 20px;
     color: #eb441d;
+}*/
 
+/* Selector de atributos de una lista de valores separados por un guion*/
+
+h1[class |=dia]{
+    text-align: center;
+    background-color: chocolate;
 }
+span[class |=span]{
+    text-align: justify;
+    background-color:darkgreen;
+    color: darkorange
+}
+h1[class|=final]{
+    text-align: center;
+    background-color:darksalmon;}
+
+h2[class|=diario]{
+    text-align: center;
+    text-decoration-style: double;
+    margin: 20px;
+    color:darkblue;
+    }
+
+
